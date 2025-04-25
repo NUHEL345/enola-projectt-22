@@ -107,7 +107,7 @@ nav ul li a :hover{
 }
 
 @media (max-width:850px){
-     ul{
+    nav ul{
         display: none;
     }
     section img{
